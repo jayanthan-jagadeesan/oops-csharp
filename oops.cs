@@ -8,6 +8,7 @@ namespace Name
         {
             Console.WriteLine("Hello, .NET 8!");
             Console.WriteLine("Hello, .NET 9!");
+            Console.WriteLine("Hello, .NET 10!");
         }
     }
 }
