@@ -7,6 +7,7 @@ namespace Name
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, .NET 10!");
+            Console.WriteLine("Hello, .NET 10!");
         }
     }
 }
